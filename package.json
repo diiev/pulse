@@ -1,7 +1,6 @@
 {
   "name": "pulse",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +22,14 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diiev/pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diiev/pulse/issues"
+  },
+  "homepage": "https://github.com/diiev/pulse#readme",
+  "description": ""
 }
