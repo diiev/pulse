@@ -4,9 +4,9 @@
     text-align: center;
     color: #0D0D0D;
     text-transform: uppercase;
-}
-.title_white {
-    color:#fff;
-    text-align: left;
-    
+
+    &_left {
+            color:#fff;
+            text-align: left;
+    }
 }
