@@ -1,0 +1,8 @@
+.footer {
+    min-height: 630px;
+    &__info {
+        width: 460px;
+        height: 270px;
+        background: $main_color;
+    }
+}
