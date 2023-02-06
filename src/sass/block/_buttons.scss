@@ -9,6 +9,7 @@
     background: $main_color;
     border-radius: 5px;
     border:none;
+    transition:  .5s all;
    &_main {
     margin-top: 65px;
     width: 303px;
@@ -24,5 +25,10 @@
     width: 135px;
     height: 44px;
     font-size: 14px;
+   }
+   &:hover {
+    background: rgba(0, 0, 0, 0.697);
+    border-radius: 0%;
+     
    }
 }
