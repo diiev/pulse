@@ -1,4 +1,10 @@
+@import 'lib/font';
+@import 'lib/boostrap-rebot.min';
+@import 'lib/slick';
+@import 'base/animate';
 @import 'base/variables';
+
+
 * {
     font-family: 'Museo Sans Cyrl', sans-serif;
 }
@@ -19,5 +25,7 @@
 @import 'block/reviews';
 @import 'block/footer';
 @import 'block/modal';
+@import 'block/pageup';
 @import 'block/media';
+
 

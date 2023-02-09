@@ -21,6 +21,10 @@
             font-size: 18px;
             margin-bottom: 20px;
         }
+        .animated {
+            animation: heartbeat 3s ease infinite;
+         
+        }
     }
     a {
         font-size: 14px;
