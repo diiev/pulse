@@ -3,7 +3,9 @@
 > 🎨 **Адаптивная верстка из макета Figma**
 > ✨ Сделано с любовью к деталям: аккуратные сетки, плавные анимации, чистые стили.
 
-🔗 [Оригинальный макет в Figma](https://www.figma.com/file/FyTdzsEW5Ri1J2A73KYgvV/Pulse-%28Copy%29?node-id=1%3A219&t=bwlJMLxxLwKqEXPr-0)
+🔗 [Оригинальный макет в Figma](https://www.figma.com/file/FyTdzsEW5Ri1J2A73KYgvV/Pulse-%28Copy%29?node-id=1%3A219&t=bwlJMLxxLwKqEXPr-0)  
+🔗 [Ссылка на демку](https://diiev.github.io/pulse/dist/index)  
+
 
 ---
 
